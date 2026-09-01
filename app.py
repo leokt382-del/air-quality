@@ -26,7 +26,7 @@ st.set_page_config(
 # Change these paths if your files are located somewhere else
 DATA_PATH = "air_quality_health_impact_data_5_missing_values.csv"
 
-MODEL_PATH = "regression_model(1).pkl"
+MODEL_PATH = "regression_model.pkl"
 
 SCALER_PATH = "scaler.pkl"
 
