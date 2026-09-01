@@ -22,7 +22,7 @@ st.set_page_config(
 # FILE PATHS
 # ============================================================
 
-DATA_PATH = "data/air_quality_health_impact_data.csv"
+DATA_PATH = "air_quality_health_impact_data_5_missing_values.csv"
 
 MODEL_PATH = "regression_model.pkl"
 
